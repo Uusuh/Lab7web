@@ -7,7 +7,8 @@ NIM   : 311910142
 
 : Praktikum 7
       
-Menjalankan Web Server,
+Menjalankan Web Server
+
 Untuk menjalankan web server dari menu XAMPP Control.
 
 ![0 1](https://user-images.githubusercontent.com/81503668/117662997-615e1d00-b1ca-11eb-97f0-2a91eceeca29.png)
