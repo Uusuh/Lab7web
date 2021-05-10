@@ -51,4 +51,15 @@ Membuat Form Input
 
 Tugas Membuat program PHP
 
-membuat file index.php,
+membuat file index.php.
+
+![tugas kode1](https://user-images.githubusercontent.com/81503668/117676801-13501600-b1d8-11eb-92b8-2f09a00fe60f.JPG)
+
+![tugas kode2](https://user-images.githubusercontent.com/81503668/117676825-1a772400-b1d8-11eb-84a8-8c3bf01e9f18.JPG)
+
+Hasil
+
+![tugas hasil](https://user-images.githubusercontent.com/81503668/117676875-25ca4f80-b1d8-11eb-8aa2-f651287e6002.JPG)
+
+
+
